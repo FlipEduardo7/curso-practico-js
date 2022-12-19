@@ -1,3 +1,0 @@
-```js
-let nombre = "chotis";
-```
